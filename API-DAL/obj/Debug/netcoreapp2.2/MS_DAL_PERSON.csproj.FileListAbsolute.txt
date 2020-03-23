@@ -1,0 +1,31 @@
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\log4net.config
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.deps.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.runtimeconfig.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.runtimeconfig.dev.json
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.dll
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.pdb
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.csprojAssemblyReference.cache
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorAssemblyInfo.cache
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorAssemblyInfo.cs
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.AssemblyInfoInputs.cache
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.AssemblyInfo.cs
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorTargetAssemblyInfo.cache
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.dll
+C:\Users\NB-ZENTA\source\repos\MS_DAL_PERSON\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.pdb
+C:\Users\Sebastian Garcia\Desktop\microservicio\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.deps.json
+C:\Users\Sebastian Garcia\Desktop\microservicio\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.runtimeconfig.json
+C:\Users\Sebastian Garcia\Desktop\microservicio\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.runtimeconfig.dev.json
+C:\Users\Sebastian Garcia\Desktop\microservicio\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.dll
+C:\Users\Sebastian Garcia\Desktop\microservicio\bin\Debug\netcoreapp2.2\MS_DAL_PERSON.pdb
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorAssemblyInfo.cache
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorAssemblyInfo.cs
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.AssemblyInfoInputs.cache
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.AssemblyInfo.cs
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.RazorTargetAssemblyInfo.cache
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.dll
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.pdb
+C:\Users\Sebastian Garcia\Desktop\microservicio\obj\Debug\netcoreapp2.2\MS_DAL_PERSON.csprojAssemblyReference.cache
